@@ -19,7 +19,7 @@ plugins:
       pagination_per_page: 5
       archive_pagination_per_page: 10
       categories_pagination_per_page: 10
-      post_slugify: ext.slugs.slugify 
+      
   - meta
   - tags
   - rss:
@@ -39,9 +39,7 @@ hooks:
 
 markdown_extensions:
   - attr_list
-  - pymdownx.emoji:
-      emoji_index: material.extensions.emoji.twemoji
-      emoji_generator: material.extensions.emoji.to_svg
+
 
 nav:
   - Home: index.md
