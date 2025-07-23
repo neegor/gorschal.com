@@ -19,9 +19,7 @@ plugins:
       pagination_per_page: 5
       archive_pagination_per_page: 10
       categories_pagination_per_page: 10
-
-        kwds:
-          short: true
+      post_slugify: ext.slugs.slugify 
   - meta
   - tags
   - rss:
@@ -41,7 +39,6 @@ hooks:
 
 markdown_extensions:
   - attr_list
-
 
 nav:
   - Home: index.md
