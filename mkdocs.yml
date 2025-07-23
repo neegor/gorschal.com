@@ -20,8 +20,6 @@ plugins:
       archive_pagination_per_page: 10
       categories_pagination_per_page: 10
       post_slugify: ext.slugs.slugify 
-        kwds:
-          short: true
   - meta
   - tags
   - rss:
