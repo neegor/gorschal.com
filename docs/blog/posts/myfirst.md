@@ -8,7 +8,7 @@ links:
   - Homepage: index.md#project-layout
   - Blog index: blog/index.md
   - External links:
-    - Material documentation: https://squidfunk.github.io/mkdocs-material
+      - Material documentation: https://squidfunk.github.io/mkdocs-material
 categories:
   - Holidays
 tags:
@@ -23,6 +23,7 @@ slug: ny-eve
 # Happy new years eve!
 
 We hope you are all having fun and wish you all the best for the new year!
+
 <!-- more -->
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod

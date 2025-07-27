@@ -1,18 +1,19 @@
-# Welcome to MkDocs
+# I'm Gorschal
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Трудно поверить, но почти 20 лет в IT. В конце концов добрался до сложных распределенных систем. Python — мой основной и любимый инструмент, но Golang, Data Mining, AI, DevOps не менее близки.
 
-## Commands
+- Пишу код.
+- Разрабатываю и оптимизирую архитектуру.
+- Помогаю командам внедрять лучшие практики в QA, CI/CD и DevManagement.
+- Пишу в блог и поддерживаю проект, посвященный алгоритмам.
+- Фанат и проповедник OpenSource.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Могу быть полезен, если испытываете сложности с:
 
-## Project layout
+- Сложными техническими решениями.
+- Оптимизацией кода и процессов.
+- Mentorship & Consulting.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
----
+## Контакты
+
+[t.me/gorschal](https://t.me/gorschal)
