@@ -17,4 +17,4 @@
 ## Контакты
 
 [t.me/gorschal](https://t.me/gorschal)  
-[github.com/neegor](https://github.com/neegor)
+[github.com/gorschal](https://github.com/gorschal)
